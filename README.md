@@ -12,6 +12,7 @@ Kelas: TI.23.A2
 ### Penjelasan
 - Pada kali ini saya menggunakan eksternal javascript dengan nama `script.js`.
 - Saya membuat form untuk melakukan validasi `nama`, `password`, dan `konfirmasi password`.
+- Pada HTML saya menggunaka `onsubmit()` untuk menjalankan JavaScript saat formulir dikirimkan.
 - Saya menggunakan `document.getElementById`.
 - Saya menggunakan `trim()` untuk menghapus spasi di akhir dan awal baris.
 - Untuk `nama` tidak boleh kosong, jika kosong akan muncul `alert("Nama harus diisi")`.
